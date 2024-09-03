@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tyrelive/static/css/main.381342a8.css",
+    "main.js": "/tyrelive/static/js/main.aec9378f.js",
+    "static/js/453.ed3810f9.chunk.js": "/tyrelive/static/js/453.ed3810f9.chunk.js",
+    "static/media/tyre.jpg": "/tyrelive/static/media/tyre.4ae2a9edb915427bf6f6.jpg",
+    "index.html": "/tyrelive/index.html",
+    "main.381342a8.css.map": "/tyrelive/static/css/main.381342a8.css.map",
+    "main.aec9378f.js.map": "/tyrelive/static/js/main.aec9378f.js.map",
+    "453.ed3810f9.chunk.js.map": "/tyrelive/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.381342a8.css",
+    "static/js/main.aec9378f.js"
+  ]
+}
